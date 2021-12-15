@@ -1,0 +1,46 @@
+:root {
+    --color-navbar-text: hsl(0, 0%, 91%);
+}
+
+nav {
+    background-color: #231F20;
+}
+
+.navbar {
+    /* color: blanchedalmond; */
+    width: 100%;
+    /* display: flexbox; */
+}
+
+.name {
+    font-weight: bolder;
+    font-size: large;
+    color: #C0A45B;
+}
+
+button .navbar-light .navbar-toggler {
+    color: var(--color-navbar-text);
+}
+
+/*
+#navbarNavAltMarkup {
+    display: flex;
+    justify-content: left;
+}
+*/
+
+.header-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#navbarNavAltMarkup .navbar-nav .nav-link {
+    color: #E9E9E9;
+    /* color: #A2C4C6; */
+}
+
+a .nav-link {
+    display: flex;
+}

@@ -1,0 +1,9 @@
+footer.footer {
+    background-color: #E2E5CB;
+}
+
+#footer-copyright {
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+}
