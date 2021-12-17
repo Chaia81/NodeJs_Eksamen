@@ -13,6 +13,7 @@
     "url": "https://github.com/Chaia81/NodeJs_4_semester/tree/main/6._My_Portfolio(Needs to be changed)"
   },
   "keywords": [
+    "library",
     "website",
     "kea"
   ],
@@ -27,6 +28,7 @@
     "mongodb": "^4.2.2",
     "mongoose": "^6.1.2",
     "nodemailer": "^6.6.0",
+    "startbootstrap-clean-blog": "^6.0.7",
     "toastr": "^2.1.4"
   },
   "devDependencies": {
